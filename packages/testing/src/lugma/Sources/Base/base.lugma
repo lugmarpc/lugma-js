@@ -1,0 +1,5 @@
+struct Message {
+	let hi: String
+}
+
+func echo(m: Message) -> Message
