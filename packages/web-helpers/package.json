@@ -1,5 +1,5 @@
 {
-	"name": "lugma-web-helpers",
+	"name": "@lugma/web-helpers",
 	"version": "0.1.1",
 	"description": "",
 	"main": "dist/index.js",
