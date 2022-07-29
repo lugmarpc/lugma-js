@@ -10,9 +10,10 @@
 	},
 	"keywords": [],
 	"author": "",
-	"license": "ISC",
+	"license": "GPL-3.0-or-later",
 	"dependencies": {
 		"esbuild": "^0.14.48",
 		"typescript": "^4.7.4"
-	}
+	},
+	"gitHead": "ae12cea440c8db75bfd673f908f25e10384a9257"
 }
