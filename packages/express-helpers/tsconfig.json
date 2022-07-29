@@ -5,7 +5,7 @@
 		"moduleResolution": "node",
 		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true,
-		"lib": ["es2015", "WebWorker"],
+		"lib": ["es2015"],
 		"downlevelIteration": true,
 		"declaration": true,
 		"declarationDir": "dist"

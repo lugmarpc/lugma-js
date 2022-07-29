@@ -1,4 +1,4 @@
-import { Stream, Transport, Result } from "lugma-server-helpers"
+import { Stream, Transport, Result } from "@lugma/server-helpers"
 import * as Express from "express"
 import * as HTTP from "http"
 import * as WebSockets from "ws"
